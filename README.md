@@ -1,7 +1,5 @@
 # Data Cleaning Project: Glassdoor Data Science Job Posts
 
-![Glassdoor Logo](glassdoor_logo.png)
-
 This repository contains a data cleaning project using pandas and numpy in a Jupyter Notebook. The project focuses on cleaning and preprocessing data scraped from Glassdoor's job posts related to Data Science positions.
 
 ## Description
